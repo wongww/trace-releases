@@ -1,1 +1,1 @@
-{"versionCode":9,"versionName":"0.9","apkUrl":"https://github.com/wongww/trace-releases/releases/download/v0.9/Trace.apk","notes":"Renamed app package to com.williamwong.trace. This installs as a NEW app; you can uninstall the old Trace afterward."}
+{"versionCode":10,"versionName":"0.10","apkUrl":"https://github.com/wongww/trace-releases/releases/download/v0.10/Trace.apk","notes":"New: Delete my data in Settings (wipes device + cloud + account)."}
