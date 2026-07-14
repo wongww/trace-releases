@@ -1,1 +1,1 @@
-{"versionCode":8,"versionName":"0.8","apkUrl":"https://github.com/wongww/trace-releases/releases/download/v0.8/Trace.apk","notes":"New: Share feedback / report a bug button in Settings."}
+{"versionCode":9,"versionName":"0.9","apkUrl":"https://github.com/wongww/trace-releases/releases/download/v0.9/Trace.apk","notes":"Renamed app package to com.williamwong.trace. This installs as a NEW app; you can uninstall the old Trace afterward."}
