@@ -1,1 +1,1 @@
-{"versionCode":19,"versionName":"0.19","apkUrl":"https://github.com/wongww/trace-releases/releases/download/v0.19/Trace.apk","notes":"Removed the Stats tab. City Portraits shows only cities you have data in. Google Maps provider now behaves like the others (last position, auto-center on you, recenter to you)."}
+{"versionCode":20,"versionName":"0.20","apkUrl":"https://github.com/wongww/trace-releases/releases/download/v0.20/Trace.apk","notes":"City discovery + downloads now work on cellular (background auto-pass stays WiFi-only). Map filter defaults to Walking only."}
