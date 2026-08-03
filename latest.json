@@ -1,1 +1,1 @@
-{"versionCode":15,"versionName":"0.15","apkUrl":"https://github.com/wongww/trace-releases/releases/download/v0.15/Trace.apk","notes":"City Portraits: tap a city in the Cities tab to see your walking routes drawn as white line art on navy, fit to your data."}
+{"versionCode":16,"versionName":"0.16","apkUrl":"https://github.com/wongww/trace-releases/releases/download/v0.16/Trace.apk","notes":"Cleaner minimal light basemap (OSM + Mapbox) so your path stands out, plus faster map loading — it remembers your last position and reuses cached tiles instead of flashing blank."}
