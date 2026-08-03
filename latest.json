@@ -1,1 +1,1 @@
-{"versionCode":16,"versionName":"0.16","apkUrl":"https://github.com/wongww/trace-releases/releases/download/v0.16/Trace.apk","notes":"Cleaner minimal light basemap (OSM + Mapbox) so your path stands out, plus faster map loading — it remembers your last position and reuses cached tiles instead of flashing blank."}
+{"versionCode":17,"versionName":"0.17","apkUrl":"https://github.com/wongww/trace-releases/releases/download/v0.17/Trace.apk","notes":"Cloud sync is now unlocked with a license key (Settings > Cloud sync). Without a valid key the app no longer uploads to Firebase."}
