@@ -1,1 +1,1 @@
-{"versionCode":20,"versionName":"0.20","apkUrl":"https://github.com/wongww/trace-releases/releases/download/v0.20/Trace.apk","notes":"City discovery + downloads now work on cellular (background auto-pass stays WiFi-only). Map filter defaults to Walking only."}
+{"versionCode":21,"versionName":"0.21","apkUrl":"https://github.com/wongww/trace-releases/releases/download/v0.21/Trace.apk","notes":"Removed Heat mode (always path). Top banner is now a compact pill that no longer covers the map compass/scale."}
