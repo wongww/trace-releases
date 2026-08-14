@@ -1,1 +1,1 @@
-{"versionCode":23,"versionName":"0.23","apkUrl":"https://github.com/wongww/trace-releases/releases/download/v0.23/Trace.apk","notes":"Google Maps now hides points of interest and transit for a cleaner, muted basemap."}
+{"versionCode":24,"versionName":"0.24","apkUrl":"https://github.com/wongww/trace-releases/releases/download/v0.24/Trace.apk","notes":"Cleans up GPS jitter from standing still (the zig-zags in buildings). New points filtered as you move; Settings > Clean up removes jitter from existing points."}
