@@ -1,1 +1,1 @@
-{"versionCode":25,"versionName":"0.25","apkUrl":"https://github.com/wongww/trace-releases/releases/download/v0.25/Trace.apk","notes":"Now removes big out-and-back GPS spikes and impossible teleport jumps (not just small jitter). Re-run Settings > Clean up to clear existing scribbles."}
+{"versionCode":26,"versionName":"0.26","apkUrl":"https://github.com/wongww/trace-releases/releases/download/v0.26/Trace.apk","notes":"Smarter noise cleanup: dwell/outlier filter removes spike clusters (not just single spikes) while never touching real walks. Re-run Settings > Clean up."}
