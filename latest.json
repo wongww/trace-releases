@@ -1,1 +1,1 @@
-{"versionCode":21,"versionName":"0.21","apkUrl":"https://github.com/wongww/trace-releases/releases/download/v0.21/Trace.apk","notes":"Removed Heat mode (always path). Top banner is now a compact pill that no longer covers the map compass/scale."}
+{"versionCode":22,"versionName":"0.22","apkUrl":"https://github.com/wongww/trace-releases/releases/download/v0.22/Trace.apk","notes":"Fixes the crash when installing an update over a slow connection. Heat mode removed; top banner no longer covers the compass/scale."}
