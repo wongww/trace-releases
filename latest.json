@@ -1,1 +1,1 @@
-{"versionCode":22,"versionName":"0.22","apkUrl":"https://github.com/wongww/trace-releases/releases/download/v0.22/Trace.apk","notes":"Fixes the crash when installing an update over a slow connection. Heat mode removed; top banner no longer covers the compass/scale."}
+{"versionCode":23,"versionName":"0.23","apkUrl":"https://github.com/wongww/trace-releases/releases/download/v0.23/Trace.apk","notes":"Google Maps now hides points of interest and transit for a cleaner, muted basemap."}
